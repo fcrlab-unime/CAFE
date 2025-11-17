@@ -1,0 +1,16 @@
+# --- Core ML / YOLO ---
+ultralytics==8.2.80
+
+# --- Federated Learning ---
+flwr==1.8.0
+
+# --- PyTorch (CPU version) ---
+# ⚠️ IMPORTANT:
+# If you need CUDA, install PyTorch manually from https://pytorch.org
+torch==2.2.0
+torchvision==0.17.0
+
+# --- Utilities ---
+numpy
+pyyaml
+python-dotenv

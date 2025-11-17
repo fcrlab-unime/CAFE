@@ -1,0 +1,5 @@
+ultralytics==8.2.80
+python-dotenv==1.0.1
+PyYAML
+numpy
+torch
