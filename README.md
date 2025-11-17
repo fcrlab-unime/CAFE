@@ -1,4 +1,4 @@
-# 📘 CAFE — Centralized and Federated Experiments
+# CAFE — Centralized and Federated Experiments
 
 **CAFE** (Centralized And Federated Experiments) is a unified framework designed to run, compare, and analyze **centralized** and **federated** training experiments using **YOLOv8** for object detection tasks.
 
